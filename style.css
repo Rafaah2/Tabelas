@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    front-size: 10px;
+    line-height: 1.em;
+}
+header li{
+    list-style-type: none;
+    
+}
